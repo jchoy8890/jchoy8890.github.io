@@ -1,3 +1,3 @@
 layout: page
 title: "Propuestas Charla"
-permalink: /propuestas/
+permalink: https://jchoy8890.github.io/propuestas
